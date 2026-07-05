@@ -42,7 +42,7 @@ The strongest relationship observed in the dataset was between workout duration 
 
 Longer workout sessions consistently resulted in higher calorie burn.
 
-![Workout Duration](images/figure1-duration-vs-calories.png)
+![Workout Duration](images/Relationship_Between_Workout_Duration_and_Calorie_Expenditure.png)
 
 ---
 

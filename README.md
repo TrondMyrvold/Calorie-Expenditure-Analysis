@@ -52,8 +52,6 @@ Average heart rate showed a positive relationship with calorie expenditure, alth
 
 ## 3. Average Calories Burned Per Hour by Workout Type
 
-To compare workout efficiency fairly, a new variable called **Calories_Per_Hour** was created.
-
 Strength training and cardio demonstrated the highest calorie expenditure per hour.
 
 ![Workout Type](Images/workout_type.png)

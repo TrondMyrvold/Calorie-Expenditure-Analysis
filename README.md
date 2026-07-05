@@ -38,7 +38,7 @@ The dataset was created to simulate realistic fitness tracking data and contains
 
 Workout duration demonstrated the strongest positive relationship with calorie expenditure. Longer workout sessions consistently resulted in higher calorie burn.
 
-![Workout Duration](Images/Relationship Between Workout Duration and Calorie Expenditure.png)
+![Workout Duration] (Images/Relationship Between Workout Duration and Calorie Expenditure.png)
 
 ---
 

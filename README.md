@@ -113,9 +113,9 @@ This new variable standardized calorie expenditure by workout duration, making i
 
 ---
 
-# What I Learned
+# Learning Outcomes
 
-Through this project I gained practical experience with:
+Through this project I improved my experience with:
 
 - Exploratory Data Analysis
 - Data storytelling

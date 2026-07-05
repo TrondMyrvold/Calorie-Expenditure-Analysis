@@ -38,7 +38,7 @@ The dataset was created to simulate realistic fitness tracking data and contains
 
 Workout duration demonstrated the strongest positive relationship with calorie expenditure. Longer workout sessions consistently resulted in higher calorie burn.
 
-![Workout Duration](Images/Relationship Between Workout Duration and Calorie Expenditure.png)
+![Workout Duration](Images/duration_vs_calories.png)
 
 ---
 
@@ -46,7 +46,7 @@ Workout duration demonstrated the strongest positive relationship with calorie e
 
 Average heart rate showed a positive relationship with calorie expenditure, although considerably weaker than workout duration.
 
-![Heart Rate](Images/Effect of Heart Rate on Calorie Expenditure.png)
+![Heart Rate](Images/heart_rate_vs_calories.png)
 
 ---
 
@@ -56,7 +56,7 @@ To compare workout efficiency fairly, a new variable called **Calories_Per_Hour*
 
 Strength training and cardio demonstrated the highest calorie expenditure per hour.
 
-![Workout Type](Images/Average Calories Burned Per Hour by Workout Type.png)
+![Workout Type](Images/workout_type.png)
 
 ---
 
@@ -64,7 +64,7 @@ Strength training and cardio demonstrated the highest calorie expenditure per ho
 
 Male participants demonstrated a higher average calorie expenditure per hour than female participants within this dataset.
 
-![Gender](Images/Average Calories Burned Per Hour by Gender.png)
+![Gender](Images/gender.png)
 
 ---
 
@@ -72,7 +72,7 @@ Male participants demonstrated a higher average calorie expenditure per hour tha
 
 Body weight showed a weak positive relationship with calorie expenditure. Considerable variation suggested that body weight alone is not a strong predictor.
 
-![Body Weight](Images/Relationship Between Body Weight and Calories Burned.png)
+![Body Weight](Images/body_weight.png)
 
 ---
 
@@ -80,7 +80,7 @@ Body weight showed a weak positive relationship with calorie expenditure. Consid
 
 Participants with higher experience levels generally demonstrated greater calorie expenditure during workout sessions.
 
-![Experience Level](Images/Relationship Between Experience Level and Calorie Expenditure.png)
+![Experience Level](Images/experience_level.png)
 
 ---
 
